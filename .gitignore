@@ -1,0 +1,53 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# macOS
+.DS_Store
+*.swp
+*.lock
+.profile
+
+# Thumbnails
+Thumbs.db
+*.meta
+
+# Project settings
+*.sln
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+
+# Memory snapshots
+*.mem
+
+# External tooling
+*.apk
+*.aar
+*.unitypackage
+
+# iOS
+/[Bb]uild/[Ii]OS/
+/[Tt]emp/[Ii]OS/
+/[Oo]bj/[Ii]OS/
+/[Ii]OSUserSettings-[0-9A-Fa-f]*.plist
+
+# Android
+/[Bb]uild/[Aa]ndroid/
+/[Tt]emp/[Aa]ndroid/
+/[Oo]bj/[Aa]ndroid/
+/[Aa]ndroid/libs/armeabi-v7a/
+/[Aa]ndroid/libs/x86/
+/[Aa]ndroid/asset[s]/
+
+# Gradle
+/[Bb]uild/[Aa]ndroid/gradleOut/
