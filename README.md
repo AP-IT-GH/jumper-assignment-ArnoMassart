@@ -223,7 +223,7 @@ if (this.spawnedEnemy != null)
 
 ### Figuur vanuit tensorboard
 
-!["TensorBoard image"](Assets\Images\Tensorboard_Image.png)
+![afbeelding](https://github.com/ArnoMassart/Jumper/assets/74812715/ab96c55e-fb75-48ff-afae-07b63c7e5c9d)
 
 ## Stap 5:
 
